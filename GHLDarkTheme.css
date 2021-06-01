@@ -299,7 +299,7 @@ body[data-theme=default-dark-v1] a:not(.btn), body[data-theme=default-dark-v1] a
 /* --------------------------------------------------------*/
 
 .hl_settings--header {
-    background-color: var(--textColor) !important;
+    background-color: var(--cardBG) !important;
     border: none;
     box-shadow: none;
 }
